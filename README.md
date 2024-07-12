@@ -54,9 +54,13 @@ I love watching Marvel movies and spending time with loved ones.
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fje000x&show_icons=true&theme=radical)
+
+### Top Languages
+Note: This section represents the languages used in my public repositories and might not fully represent my skill set.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fje000x&layout=compact&theme=radical)
 
 ---
 
 *Thank you for visiting my profile! Let's connect and learn together.*
+
 
