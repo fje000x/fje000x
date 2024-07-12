@@ -71,7 +71,7 @@ I'm a junior computer science student passionate about data analytics and data s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-erazo00)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fje000x)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandojoseerazo@gmail.com)
-[!Website](https://fernandoerazo.com)
+
 ---
 
 *Thank you for visiting my profile! Let's connect and learn together.*
