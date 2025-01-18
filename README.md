@@ -4,31 +4,30 @@
 
 I'm a junior computer science student passionate about data analytics and data science. I've completed a Springboard bootcamp, where I honed my skills in SQL, Python, and various data analysis tools. I also have experience with web development technologies like HTML, CSS, JavaScript, and React.
 
-### 🔭 Current Focus
+###  Current Focus
 - Enhancing skills in data analytics and data science.
 - Building machine learning and data visualization projects.
 - Learning advanced data science methodologies.
-
-### 🌱 Learning
+###  Learning
 - Machine learning algorithms and their applications.
 - Data science best practices and tools.
 
-### 👯 Collaboration
+###  Collaboration
 - Data analytics and machine learning projects.
 - Open-source contributions in data analysis and visualization.
 
-### 💬 Ask me about
+###  Ask me about
 - SQL, Python, data analysis libraries.
 - Tips for starting with data analytics and visualization.
 - My journey as a computer science student and bootcamp graduate.
 
-### 📫 Contact
+###  Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-erazo00)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fje000x)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandojoseerazo@gmail.com)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fernandoerazo.com)
 
-### ⚡ Fun fact
+###  Fun fact
 I love watching Marvel movies and spending time with loved ones.
 
 ### Technical Skills
