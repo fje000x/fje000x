@@ -51,12 +51,6 @@ I love watching Marvel movies and spending time with loved ones.
 - **Southern New Hampshire University** - Computer Science (2021-2025)
 - **Springboard** - Data Analytics Career Path Certificate (2023-2024)
 
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fje000x&show_icons=true&theme=radical)
-
-### Top Languages
-Note: This section represents the languages used in my public repositories and might not fully represent my skill set.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fje000x&layout=compact&theme=radical)
 
 ---
 
